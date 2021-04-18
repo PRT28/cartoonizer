@@ -1,6 +1,6 @@
 # cartoonizer
  
- It is a python script which converts normal images to cartoon styked images
+ It is a python script which converts normal images to cartoon styled images
  
  ![Image](https://github.com/PRT28/cartoonizer/blob/main/Stack.jpg)
 
