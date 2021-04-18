@@ -4,5 +4,5 @@
  
  ![Image](https://github.com/PRT28/cartoonizer/blob/main/Stack.jpg)
 
- 1.Left Image is normal Imgae
- 2.Right Image is the converted image using script
+ 1. Left Image is normal Imgae
+ 2. Right Image is the converted image using script
